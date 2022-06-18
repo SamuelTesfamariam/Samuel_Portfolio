@@ -7,8 +7,7 @@
 4. Run a test prediction on a hold-out sample (test data) for a forecast vs. actuals comparison
 5. Finally made a six month forecast for the series.
 
-![Time Series plot of PMETAINDEXM](https://github.com/SamuelTesfamariam/Samuel_Portfolio/blob/main/Images/Plot%20of%20the%20series.png)
-
+![](https://github.com/SamuelTesfamariam/Samuel_Portfolio/blob/main/Images/Plot%20of%20the%20series.png)
 
 ![](/Images/Series%20transformation.png)
 
