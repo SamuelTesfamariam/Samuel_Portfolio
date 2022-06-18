@@ -7,7 +7,7 @@
 4. Run a test prediction on a hold-out sample (test data) for a forecast vs. actuals comparison
 5. Finally made a six month forecast for the series.
 
-![](https://github.com/SamuelTesfamariam/Samuel_Portfolio/commit/6ef0fc4c1a3552f0842025213a2617f41824da0d#diff-2561ec15da11043278a5e4f8a186347b698fd9e6d70d57ad3367054afc706fd4)
+![](/Images/Plot%20of%20the%20series.png)
 
 ![](/Images/Series%20transformation.png)
 
