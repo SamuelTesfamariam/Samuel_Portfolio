@@ -8,3 +8,5 @@
 3. Estimated an ARIMA model (ARIMA (1, 1, 1)
 4. Run a test prediction on a hold-out sample (test data)
 5. Finally made a six month forecast for the series.
+
+https://github.com/SamuelTesfamariam/Samuel_Portfolio/blob/main/Images/6%20month%20forecast.png
