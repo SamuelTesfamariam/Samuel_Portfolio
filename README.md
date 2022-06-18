@@ -3,11 +3,12 @@
 2. Run an Augmented Dicky Fuller test (ADF) to test for Unit root
     - Here I used the Ender's approach to test for unit root.
     - I also transformed the data as needed to achieve stationarity in the series
-3. Estimated an ARIMA model (ARIMA(1, 1, 1))
+3. Estimated an ARIMA(1, 1, 1) model after comparing different models
 4. Run a test prediction on a hold-out sample (test data) for a forecast vs. actuals comparison
 5. Finally made a six month forecast for the series.
 
-![](https://github.com/SamuelTesfamariam/Samuel_Portfolio/blob/main/Images/Plot%20of%20the%20series.png)
+![Time Series plot of PMETAINDEXM](https://github.com/SamuelTesfamariam/Samuel_Portfolio/blob/main/Images/Plot%20of%20the%20series.png)
+
 
 ![](/Images/Series%20transformation.png)
 
