@@ -9,14 +9,6 @@
 
 ![](Images/Plot%20of%20the%20series.png)
 
-![](Images/Series%20transformation.png)
-
-![](Images/ADF%20Test%20results.PNG)
-
-![](Images/ACF_PACF%20plot.png)
-
-![](Images/Models%20comparison.PNG)
-
 ![](Images/estimated%20model%20fit%20and%20residuals.png)
 
 ![](Images/forecast%20vs%20actuals.png)
